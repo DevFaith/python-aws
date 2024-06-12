@@ -129,5 +129,4 @@ A link will be provided for local host '8000' by default, the link will open a n
 
 ```
 Happy coding,
-Erick-Wg
 ```
